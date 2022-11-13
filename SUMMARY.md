@@ -11,3 +11,4 @@
 * [2022](archive/2022/README.md)
   * [July](archive/2022/july/README.md)
     * [1 Jul - Fri](archive/2022/july/1-jul-fri.md)
+    * [New page](archive/2022/july/new-page.md)
